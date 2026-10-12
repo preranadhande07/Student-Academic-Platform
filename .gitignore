@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Testing and coverage reports
+.pytest_cache/
+.coverage
+htmlcov/
+reports/
+*.xml
+
+# Jenkins workspace artifacts
+*.log
+.DS_Store
+
+# IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
